@@ -4,39 +4,42 @@
     "dashedName": "learn-nodejs-repl",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 22,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 23
+    "numberOfLessons": 23,
+    "completedDate": 1791184099918
   },
   {
     "id": 1,
     "dashedName": "build-a-file-processor",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 29,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 30
+    "numberOfLessons": 30,
+    "completedDate": 1791216415829
   },
   {
     "id": 2,
     "dashedName": "build-a-case-converter",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 44,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 45
+    "numberOfLessons": 45,
+    "completedDate": 1791270889276
   },
   {
     "id": 3,
